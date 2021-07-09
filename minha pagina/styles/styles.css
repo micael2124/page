@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&display=swap');
+
+b{
+    color: rgb(0, 0, 0);
+    font-family: fantasy;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+    filter: brightness(50%);
+}
+
+
+
+.header-conteiner{
+    border:3px solid black;
+    text-align: center;
+    position: absolute;
+    display: block;
+    width: 100%;
+    top: 300px;
+}
+
+#btn {
+    background-color: darkorange;
+    color: white;
+    text-decoration: none;
+    height: 40px;
+    width: 150px;
+    display: inline-block;
+    border-radius: 70px;
+    padding-top: 15px;
+
+}
+
+.card-conteiner{
+    color: darkorange;
+}
